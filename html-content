@@ -1,0 +1,150 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My resume</title>
+    <link rel="preconnect" href="https://fonts.gstatic.com">
+<link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="css/style.css">
+</head>
+
+<body>
+
+    <!-- Main section -->
+   <div class="all">
+        <!-- Main content section -->
+        <div class="main-section">
+            <!-- About me -->
+            <div class="about-me">
+                <h2 class="profession-me">CEO of SPQR</h2>
+                <h1 class="my-name">Ilya Smirnov</h1>
+
+                <p class="about-me-description">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore
+                    et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut
+                    aliquip ex ea commodo consequat.</p>
+            </div>
+
+            <!-- My projects -->
+            <div class="projects">
+                <h3 class="main-content-title">Projects</h3>
+                <ol class="project-list">
+                    <li class="my-project-item">
+                        <span class="my-project-text">
+                    <a href="https://hellenglish.goit.education/" class="my-project-link">https://hellenglish.goit.education/</a>
+                        .........
+                        <span><span class="my-project-bracket">[</span>HTML5, CSS3<span class="my-project-bracket">]</span></span>
+                    </span>
+                    </li>
+                    <li class="my-project-item">
+                        <span class="my-project-text">
+                    <a href="https://cryptohub.goit.education/" class="my-project-link">https://cryptohub.goit.education/</a>
+                        ...........
+                        <span><span class="my-project-bracket">[</span>JavaScript<span class="my-project-bracket">]</span></span>
+                    </span>
+                    </li>
+                    <li class="my-project-item">
+                        <span class="my-project-text">
+                    <a href="https://kidslike.goit.education/" class="my-project-link">https://:kidslike.goit.education/</a>
+                        ................
+                        <span><span class="my-project-bracket">[</span>React.js, Node.js<span class="my-project-bracket">]</span></span>
+                        </span>
+                    </li>
+                </ol>
+            </div>
+
+            <!-- My work experience-->
+            <div>
+                <h3 class="main-content-title">Work experience</h3>
+                <!-- Company 1-->
+                    <div class="freelance">
+                        <h4>Front-end developer <span class="company">Freelance</span></h4>
+                        <p class="worktime">February 2020 - up to now <span class="divider">|</span> Ukraine</p>
+                        <ul class="duties">
+                            <li class="duty">Lorem ipsum dolor sit amet, consectetur adipiscing elit,</li>
+                            <li class="duty">sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</li>
+                            <li class="duty">Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris</li>
+                            <li class="duty">nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in</li>
+                        </ul>
+                    </div>
+                <!-- Company 2 -->
+                <div>
+                        <h4>Manager <span class="company">Roga & Kopyta New</span></h4>
+                        <p class="worktime">February 2016 - March 2019 <span class="divider">|</span> Ukraine</p>
+                        <ul class="duties">
+                            <li class="duty">Lorem ipsum dolor sit amet, consectetur adipiscing elit,</li>
+                            <li class="duty">sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</li>
+                            <li class="duty">Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris</li>
+                            <li class="duty">nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in</li>
+                        </ul>
+                </div>
+                <!-- Company 3 -->
+                <div>
+                        <h4>Manager <span class="company">Roga & Kopyta LLC</span></h4>
+                        <p class="worktime">February 2016 - March 2019 <span class="divider">|</span> Ukraine</p>
+                        <ul class="duties">
+                            <li class="duty">Lorem ipsum dolor sit amet, consectetur adipiscing elit,</li>
+                            <li class="duty">sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</li>
+                            <li class="duty">Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris</li>
+                            <li class="duty">nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in</li>
+                        </ul>
+                </div>
+            </div>
+                <!-- Education -->
+                <div>
+                    <h3 class="main-content-title">Education</h3>
+                    <h4 class="company">School #13</h4>
+                    <p class="worktime">September 2011 - up to now <span class="divider">|</span> Ukraine
+                    </p>
+                
+                </div>
+                </div>
+    
+    
+                
+                <!-- Sidebar section -->
+                <div class="sidebar">
+                <aside>
+                <img src="https://bit.ly/2M9CgeU" alt="gay wizard" width="370px"; height="462px">
+                    <div class="contacts">  
+                        <div>
+                        <h3 class="sidebar-title">Contacts</h3>
+                            <span class="contacts-section-type">C:</span>
+                            <a class="contacts-section-link" href="tel:+380636397043">+380 63 639 70 43</a>
+                        </div>
+                        <div>
+                            <span class="contacts-section-type">E:</span>
+                            <a class="contacts-section-link" href="mailto:hammercube@gmail.com">hammercube@gmail.com</a>
+                </div>
+                    </div>
+                    </aside>
+                        <!-- Tech skills section-->
+                        <aside>
+                        <div class="tech-skills">
+                            <h3 class="sidebar-title">Tech skills</h3>
+                            <ul class="skills">
+                                <li class="li-skill"><span class="word-skill">HTML5</span></li>
+                                <li class="li-skill"><span class="word-skill">CSS3</span></li>
+                            </ul>
+                        </div>
+                        </aside>
+                        <!-- Soft skills section -->
+                        <aside>
+                        <div class="soft-skills">
+                            <h3 class="sidebar-title-soft">Soft skills</h3>
+                            <ul class="skills">
+                                <li class="li-skill"><span class="word-skill">Scrum</span></li>
+                                <li class="li-skill"><span class="word-skill">Agile</span></li>
+                                <li class="li-skill"><span class="word-skill">Teamwork</span></li>
+                                <li class="li-skill"><span class="word-skill">GTD</span></li>
+                            </ul>
+                        </div>
+                    </aside>
+                    </div>
+                </div>          
+                
+                </body>
+                
+                </html>
