@@ -1,5 +1,2 @@
 # resume
-Template of the resume to be provided to your employer.
-Code written within Go IT's free HTML and CSS basics programme.
-(Also it is the first serious code, created by me)
-Enjoy
+First serious code of mine. Created during the GoIT team's free HTML5 and CSS3 basics marathon. Hope you enjoy!
