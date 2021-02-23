@@ -1,2 +1,2 @@
 # resume
-First serious code of mine. Created during the GoIT team's free HTML5 and CSS3 basics marathon. Hope you enjoy!
+First serious code of mine. Created during the GoIT team's free HTML5 and CSS3 basics marathon. Hope it'll be useful!
